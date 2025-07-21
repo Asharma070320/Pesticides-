@@ -1,10 +1,10 @@
 import React from 'react'
-import PesticidesWebsite from './Pesticides'
+import PestControlWebsite from './Pesticides'
 
 const App = () => {
   return (
     <div>
-      <PesticidesWebsite />
+      <PestControlWebsite />
     </div>
   )
 }
